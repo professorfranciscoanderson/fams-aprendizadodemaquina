@@ -5,3 +5,8 @@ do Curso Técnico Integrado de Informática dos anos de 2015, 2016 e 2017 do
 Instituto Federal do Pará, Campus Santarém, através da aplicação de técnicas
 de aprendizado de máquina foi construído um sistema preditivo de evasão
 escolar baseado em árvores de decisão.
+Desenvolvido por: 
+Alison Augusto Miranda Pereira;
+Francisco Anderson Mariano da Silva;
+Natalie Von Paraski;
+Yeverson Carlos Costa dos Santos.
